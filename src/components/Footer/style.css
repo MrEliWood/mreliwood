@@ -1,0 +1,33 @@
+footer {
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   width: 100%;
+   padding: var(--large);
+   margin: 0px auto;
+}
+
+.footer-detail {
+    opacity: 0.5;
+    font-size: 1.2em;
+}
+
+.footer-contact {
+   display: flex;
+   flex-direction: row;
+   align-items: center;
+}
+
+.footer-contact li:last-of-type {
+   margin-left: var(--medium);
+}
+
+.focused {
+    transition: all 1s ease;
+    transform: translateY(-30vh);
+    flex-direction: column;
+}
+
+.focused li {
+    margin: var(--small);
+}
