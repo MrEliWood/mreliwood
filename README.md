@@ -1,5 +1,3 @@
-# Portfolio
-
 ## Hi, my name is Eli and I'm a software developer.
 
 I'm always open to new opportunities. Check out my [portfolio](https://mreliwood.github.io/portfolio) and let me know if you're interested in working together.
