@@ -8,6 +8,6 @@ I'm always open to new opportunities. Check out my [portfolio](https://mreliwood
 
 [425.736.5875](sms:+14257365875)
 
-[contact.eliwood@gmail.com](mailto:contact.eliwood@gmail.com)
+[eli@eliwooddesign.com](mailto:eli@eliwooddesign.com)
 
 [LinkedIn](https://www.linkedin.com/in/eliwoodprofessional/)
